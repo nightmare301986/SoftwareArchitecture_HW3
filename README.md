@@ -9,4 +9,4 @@
 
 Ссылка на репозитоий github:
 
-https://github.com/nightmare301986/SoftwareArchitecture_HW2/tree/main
+https://github.com/nightmare301986/SoftwareArchitecture_HW3/tree/main
